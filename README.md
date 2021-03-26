@@ -5,3 +5,5 @@ Knob 2 - Change Octave - 1 to 8
 Knob 1 - Change Instrument - Piano, Violin, Saxophone  
 Joystick x - Tremolo  
 Joystick y - Vibrato  
+
+![alt text](https://github.com/JimZeyuYang/EmbeddedStsem-StackSynth-Piano/blob/main/StackSynth.jpg)
