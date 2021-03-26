@@ -6,4 +6,4 @@ Knob 1 - Change Instrument - Piano, Violin, Saxophone
 Joystick x - Tremolo  
 Joystick y - Vibrato  
 
-![alt text](https://github.com/JimZeyuYang/EmbeddedStsem-StackSynth-Piano/blob/main/StackSynth.jpg)
+![alt text](https://github.com/JimZeyuYang/EmbeddedSystem-StackSynth-Piano/blob/main/StackSynth.jpg)
